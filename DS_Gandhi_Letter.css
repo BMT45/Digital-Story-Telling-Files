@@ -1,0 +1,28 @@
+html{
+    background-color: red;
+}
+p{
+    font-family: helvetica;
+}
+ div.head{
+    text-align: center;
+    font-size: 20pt;
+ }
+div.main {
+    font-size: 12pt;
+    text-align: center;
+    color: black;
+    line-height: 150%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 63%;
+    margin-left: 13%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    background: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    }
